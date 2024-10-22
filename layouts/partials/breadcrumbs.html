@@ -2,11 +2,11 @@
     <ol class="breadcrumb m-0">
       {{ range .Ancestors.Reverse }}
         <li class="breadcrumb-item">
-          <a class="small text-decoration-none text-muted" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <a class="small text-decoration-none text-muted" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
         </li>
       {{ end }}
       <li class="breadcrumb-item active">
-        <a class="small text-decoration-none" aria-current="page" href="{{ .RelPermalink }}">{{ .LinkTitle | truncate 20 "..." }}</a>
+        <a class="small text-decoration-none" aria-current="page" href="{{ .Permalink }}">{{ .LinkTitle | truncate 20 "..." }}</a>
       </li>
     </ol>
 </nav>
