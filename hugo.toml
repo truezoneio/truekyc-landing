@@ -1,0 +1,8 @@
+baseURL = "https://truekyc.io"
+title = "TrueKYC"
+languageCode = "en-us"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  description = "TrueKYC is a simple KYC verification dashboard to streamline compliance with seamless customer onboarding, realtime verification and robust security features"

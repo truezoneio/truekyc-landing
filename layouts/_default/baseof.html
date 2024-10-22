@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode }}">
+    {{ partial "head.html" . }}
+    <style>
+        html, body{
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+        margin-bottom: 0;
+        font-family: 'DM Sans', sans-serif;
+        color: #0D1D36!important;
+        }   
+        div, p, li, ul, .nav-link {
+        font-family: 'Inter', sans-serif;
+        color: #42597D!important;
+        }   
+        .bg-light{
+        background: #F3F8FF!important;
+        }
+        .text-muted{
+        color: #42597D!important;
+        }
+        .bg-dark{
+        background: #0D1D36!important;
+        }
+        .text-dark{
+        color: #0D1D36!important;
+        }
+        .accordion-button:not(.collapsed){
+            background: unset;
+        }
+    </style>
+    <body>
+        {{ partial "header.html" . }}
+        <main style="margin-top:50px">
+        {{ block "main" . }}{{ end }}
+        </main>
+        {{ partial "footer.html" . }}
+    </body>
+</html>

@@ -1,0 +1,51 @@
+{{ define "main" }}
+  
+    <!-- Content -->
+    
+    <style>
+        h1, h2, h3, h4, h5, h6 {
+            margin-bottom: 10px;
+        }
+        p{
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+    </style>
+
+    <section class="pt-5 mb-3">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-9">
+                    <div class="d-flex flex-column gap-3 my-3">
+                        <h1 class="fw-bold lh-1">
+                          {{ .Title }}
+                        </h1>
+                        <div class="d-flex">
+                            <div>
+                                <span class="small text-muted">
+                                    <i class="bi bi-calendar3"></i>
+                                    {{ .Date | time.Format ":date_medium" }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    {{ with .Resources.GetMatch "cover*" }} <!-- Look for featured image in the bundle -->
+                    <img src="{{ .Permalink }}" class="card-img-top img-fluid rounded-4" alt="{{ $.Title }}" style="height:300px; object-fit:cover; object-position: center;">
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- FAQ -->
+    <section id="faq" class="">
+        <div class="container ">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-9">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+{{ end }}
