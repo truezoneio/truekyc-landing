@@ -1,6 +1,6 @@
 +++
 title = "Why Small Businesses Can’t Ignore Customer Verification"
-date = 2024-11-05T15:07:07+01:00
+date = 2024-11-05T16:00:07+03:00
 description = "KYC essentials for small businesses to stay compliant"
 +++
 
