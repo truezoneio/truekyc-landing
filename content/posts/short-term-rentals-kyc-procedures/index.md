@@ -26,10 +26,12 @@ The short-term rental market has grown exponentially over the past decade, drive
     
     -   Dominates the market due to high demand in the U.S. and Canada.
     -   In the U.S., the short-term rental market generated **$15.1 billion in revenue in 2023**.
+
 2.  **Europe**
     
     -   A strong market fueled by popular tourist destinations like France, Spain, and Italy.
     -   Spain’s short-term rental industry generates **$7 billion annually**.
+
 3.  **Asia-Pacific**
     
     -   Rapid growth driven by a rising middle class and increased interest in travel.
@@ -68,38 +70,46 @@ Short-term rental hosts in many countries must comply with KYC (Know Your Custom
     -   **Documents Required:** Government-issued ID, full name, nationality, and payment details.
     -   **Reporting Authority:** National police or civil guard via the official registry system.
     -   **Deadline:** Within **24 hours of guest check-in**.
+
 2.  **Turkey**
     
     -   **Documents Required:** Valid government ID or passport.
     -   **Reporting Authority:** General Directorate of Security via the GİYKİMBİL system.
     -   **Deadline:** **Daily submission**.
+
 3.  **Italy**
     
     -   **Documents Required:** Valid ID or passport, full name, and stay dates.
     -   **Reporting Authority:** Alloggiati Web system.
     -   **Deadline:** Within **24 hours of check-in**.
+
 4.  **France**
     
     -   **Documents Required:** For non-French nationals: full name, date of birth, nationality, and ID details.
     -   **Reporting Authority:** Individual Police Form, available upon request.
     -   **Notes:** Records must be maintained for up to **12 months**.
+
 5.  **Germany**
     
     -   **Documents Required:** Completed Meldeschein and valid ID.
     -   **Reporting Authority:** Records retained by hosts, provided upon request.
     -   **Notes:** Non-compliance may result in fines.
+
 6.  **United States**
     
     -   **Documents Required:** Varies by state; typically name, address, and government-issued ID.
     -   **Notes:** Reporting deadlines and requirements vary.
+
 7.  **India**
     
     -   **Documents Required:** Passport and visa details for foreign nationals.
     -   **Reporting Authority:** Bureau of Immigration via Form C within **24 hours**.
+
 8.  **Japan**
     
     -   **Documents Required:** Passport and visa details (for non-residents).
     -   **Deadline:** Records must be retained for **three years**.
+    
 9.  **Australia**
     
     -   **Documents Required:** Name, address, and ID.
