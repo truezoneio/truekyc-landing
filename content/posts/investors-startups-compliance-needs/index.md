@@ -8,7 +8,7 @@ In the fast-paced world of the startup ecosystem, compliance and risk management
 ## The Size of the Startup Market  
 The global startup ecosystem is massive and growing rapidly. In 2023 alone, startups raised over $445 billion in venture capital funding, with angel investors and family offices contributing a significant share of this total. Family offices, which often manage multi-million to billion-dollar portfolios, are increasingly participating in early-stage and growth-stage investments. With such substantial investment volumes, the need for robust compliance processes cannot be overstated.
 
-**1. Ensuring Regulatory Compliance**  
+## 1. Ensuring Regulatory Compliance  
 Venture capitalists and startup founders often operate in jurisdictions with strict financial regulations. These include mandatory KYC and AML checks for investors, founders, and other stakeholders. Compliance ensures:
 
 -   Adherence to local and international laws.
@@ -65,7 +65,7 @@ Investments involving Politically Exposed Persons (PEPs) carry higher risks due 
 -   Assess the level of risk and recommend mitigation measures.
 -   Monitor ongoing activities for compliance.
 
-## 8. Facilitating Fundraising Transparency**  
+## 8. Facilitating Fundraising Transparency  
 When Investors and startup co-founders raise or receive funds, demonstrating adherence to KYC and AML standards builds trust. It assures stakeholders that:
 
 -   The fund’s operations are transparent.
@@ -77,7 +77,7 @@ Truezone specializes in SaaS compliance tools for offline businesses and offers 
 
 1.  **TrueKYC:**  SaaS platform that provides comprehensive KYC (Know Your Customer), KYB (Know Your Business), and transaction monitoring services. It is designed to help investors and startups ensure compliance with regulatory requirements.
 
-3.  **TrueCheck:** Currently under development and set to launch in January 2025, TrueCheck is an AML screening platform that will enable to screen entities across over 250 global sanction lists. It will also allow customers to check criminal lists, identify Politically Exposed Persons (PEPs), and verify sanctioned cryptocurrency wallet addresses. This robust platform will empower investors and founders to stay ahead of compliance risks.
+2.  **TrueCheck:** Currently under development and set to launch in January 2025, TrueCheck is an AML screening platform that will enable to screen entities across over 250 global sanction lists. It will also allow customers to check criminal lists, identify Politically Exposed Persons (PEPs), and verify sanctioned cryptocurrency wallet addresses. This robust platform will empower investors and founders to stay ahead of compliance risks.
 
 **Conclusion**  
 KYC and AML solutions are no longer optional for investors and startups; they are essential tools for navigating the complexities of the modern investment landscape. By adopting compliance solutions, both parties can mitigate risks and build trust in their relationships, paving the way for sustainable and ethical growth.
