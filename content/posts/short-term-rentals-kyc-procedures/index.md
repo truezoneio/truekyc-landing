@@ -176,5 +176,5 @@ As the short-term rental market evolves, so do the challenges and opportunities 
 
 The short-term rental market’s rapid growth brings with it increasing compliance demands and guest expectations. Solutions like **TrueKYC** help hosts navigate these challenges by providing secure, streamlined, and reliable tools for guest verification and compliance.
 
-Take the next step toward hassle-free guest verification. Visit [truekyc.io](https://truekyc.io/) today to learn more.
+Take the next step toward hassle-free guest verification. Visit [truekyc.io](https://truekyc.io) today to learn more.
 

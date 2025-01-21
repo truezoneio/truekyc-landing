@@ -184,4 +184,4 @@ d. Combining the Personal Information with any data received from or related to 
 
 13.2. The provisions of clause 13.1 do not apply to the service of any legal proceedings or other documents in any legal action, or, where applicable, to any arbitration or alternative dispute resolution method.
 
-This agreement comes into force upon the customer's registration to TRUEZONE, KYC platform via official website https://truekyc.io/
+This agreement comes into force upon the customer's registration to TRUEZONE, KYC platform via official website https://truekyc.io

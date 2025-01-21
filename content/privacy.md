@@ -23,7 +23,7 @@ New York Privacy Act (NYPA): Aims to provide comprehensive data privacy rights t
 Customer: The legal entity or individual that utilizes TRUEZONE's services and collects personal information from Applicants.
 Applicant: Any individual whose personal information is collected by a Customer.
 Personal Information: Any data that relates to an identified or identifiable individual, including but not limited to names, contact information, identification numbers, and other sensitive data.
-Platform: https://truekyc.io/
+Platform: https://truekyc.io
 
 3. Data Collection and Use
 TRUEZONE does not collect personal information directly from Applicants. Instead, Customers collect their Applicants' personal information by using the platform, including but not limited to:
